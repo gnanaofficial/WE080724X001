@@ -63,7 +63,7 @@ const GraphicDesignService = () => {
                 marketing campaign, our team is equipped to deliver. We also
                 place great emphasis on staying up-to-date with the latest
                 design trends and tools, ensuring that the final output is both
-                modern and timeless. With Webortex, you can expect designs that
+                modern and timeless. With 64Framez, you can expect designs that
                 not only look great but also serve a strategic purpose—enhancing
                 user engagement, boosting brand recognition, and driving
                 business growth.
