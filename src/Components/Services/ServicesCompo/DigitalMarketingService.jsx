@@ -47,7 +47,7 @@ const DigitalMarketingService = () => {
               <div className="mb-4">
                 In the fast-paced world of digital marketing, staying ahead of
                 the competition requires precision, creativity, and data-driven
-                strategies. At Webortex, we offer a full suite of digital
+                strategies. At 64Framez, we offer a full suite of digital
                 marketing services designed to help your business grow online.
                 From search engine optimization (SEO) and pay-per-click (PPC)
                 campaigns to social media management and content creation, we
@@ -62,7 +62,7 @@ const DigitalMarketingService = () => {
                 Whether you're looking to increase website traffic, boost online
                 sales, or enhance brand awareness, we provide targeted solutions
                 that drive success. With a focus on creativity and strategy,
-                Webortex ensures your digital presence is not only seen but also
+                64Framez ensures your digital presence is not only seen but also
                 impactful.
               </div>
             </div>
