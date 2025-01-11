@@ -47,7 +47,7 @@ const WebDesignService = () => {
               <div className="mb-4">
                 In a digital-first world, your website is often the first
                 interaction potential customers have with your brand. At
-                Webortex, we specialize in designing user-centric websites that
+                64Framez, we specialize in designing user-centric websites that
                 not only look stunning but also provide an intuitive and
                 seamless user experience. Our web design services focus on
                 creating responsive, visually appealing sites that function
