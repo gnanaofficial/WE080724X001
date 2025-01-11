@@ -159,7 +159,7 @@ const Testimonials = () => {
                 <img
                   className="w-10 h-10 rounded-full object-cover object-center"
                   alt="testimonial 01"
-                  src={testimonialImg1}
+                  src="https://plus.unsplash.com/premium_photo-1678197937465-bdbc4ed95815?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
                 />
                 <Box className="self-center pl-2">
                   <Typography className="text-xs text-backgroundColor font-poppins font-medium">
@@ -209,11 +209,11 @@ const Testimonials = () => {
                 <img
                   className="w-10 h-10 rounded-full object-cover object-center"
                   alt="testimonial 02"
-                  src={testimonialImg2}
+                  src="https://images.unsplash.com/photo-1573497161374-439a30d308db?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 />
                 <Box className="self-center pl-2">
                   <Typography className="text-xs text-backgroundColor font-poppins font-medium">
-                    Revanth
+                    Revanthi
                   </Typography>
                   <Typography className="text-[11px] text-backgroundColor font-poppins font-normal">
                     Designer
@@ -259,7 +259,7 @@ const Testimonials = () => {
                 <img
                   className="w-10 h-10 rounded-full object-cover object-center"
                   alt="testimonial 03"
-                  src={testimonialImg2}
+                  src="https://images.unsplash.com/photo-1590086782792-42dd2350140d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 />
                 <Box className="self-center pl-2">
                   <Typography className="text-xs text-backgroundColor font-poppins font-medium">
@@ -309,7 +309,7 @@ const Testimonials = () => {
                 <img
                   className="w-10 h-10 rounded-full object-cover object-center"
                   alt="testimonial 04"
-                  src={testimonialImg2}
+                  src="https://images.unsplash.com/photo-1609028115606-c9f4289504cd?q=80&w=1854&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 />
                 <Box className="self-center pl-2">
                   <Typography className="text-xs text-backgroundColor font-poppins font-medium">
