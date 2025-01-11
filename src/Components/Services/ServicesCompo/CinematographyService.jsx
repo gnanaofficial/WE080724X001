@@ -46,7 +46,7 @@ const CinematographyService = () => {
             <div className="font-poppins text-sm md:text-base lg:text-lg font-light leading-snug text-textColor mt-5 text-center md:text-left px-10 md:px-0">
               <div className="mb-4">
                 Cinematography is a powerful medium for storytelling, and at
-                Webortex, we bring your vision to life through high-quality
+                64ramez, we bring your vision to life through high-quality
                 video production. Our cinematography services cover everything
                 from conceptualizing and shooting to editing and
                 post-production. Whether you're creating a commercial, a
@@ -60,7 +60,7 @@ const CinematographyService = () => {
                 message and aesthetic. We also focus on post-production
                 excellence, ensuring that the final cut is polished,
                 professional, and ready to captivate your audience. With
-                Webortex, you can expect a cinematic experience that not only
+                64Framez, you can expect a cinematic experience that not only
                 meets but exceeds your expectations, delivering powerful visuals
                 that leave a lasting impression.
               </div>
