@@ -138,6 +138,7 @@ const Testimonials = () => {
                   <Star>★</Star>
                   <Star>★</Star>
                   <Star>★</Star>
+                  <Star>★</Star>
                 </Stars>
               </Box>
               <Typography className="font-poppins text-backgroundColor text-[11px] leading-[18px] font-normal text-left mt-5">
@@ -162,10 +163,10 @@ const Testimonials = () => {
                 />
                 <Box className="self-center pl-2">
                   <Typography className="text-xs text-backgroundColor font-poppins font-medium">
-                    John Carter
+                    Sreenivas
                   </Typography>
                   <Typography className="text-[11px] text-backgroundColor font-poppins font-normal">
-                    Marketing Lead
+                 Content Creator
                   </Typography>
                 </Box>
               </Box>
@@ -212,7 +213,7 @@ const Testimonials = () => {
                 />
                 <Box className="self-center pl-2">
                   <Typography className="text-xs text-backgroundColor font-poppins font-medium">
-                    Peeter pawl
+                    Revanth
                   </Typography>
                   <Typography className="text-[11px] text-backgroundColor font-poppins font-normal">
                     Designer
@@ -233,6 +234,8 @@ const Testimonials = () => {
                 </Box>
 
                 <Stars className="justify-self-end ml-auto">
+                  <Star>★</Star>
+                  <Star>★</Star>
                   <Star>★</Star>
                   <Star>★</Star>
                   <Star>★</Star>
@@ -262,7 +265,9 @@ const Testimonials = () => {
                   <Typography className="text-xs text-backgroundColor font-poppins font-medium">
                     Nani
                   </Typography>
-                  <Typography className="text-[11px] text-backgroundColor font-poppins font-normal"></Typography>
+                  <Typography className="text-[11px] text-backgroundColor font-poppins font-normal">
+                  Printing agency
+                  </Typography>
                 </Box>
               </Box>
             </div>
@@ -282,7 +287,7 @@ const Testimonials = () => {
                   <Star>★</Star>
                   <Star>★</Star>
                   <Star>★</Star>
-
+                  <Star>★</Star>
                   <Star>★</Star>
                 </Stars>
               </Box>
@@ -308,10 +313,10 @@ const Testimonials = () => {
                 />
                 <Box className="self-center pl-2">
                   <Typography className="text-xs text-backgroundColor font-poppins font-medium">
-                    Saleem
+                    Aadhi Kesava Reddy
                   </Typography>
                   <Typography className="text-[11px] text-backgroundColor font-poppins font-normal">
-                    Developer
+                    Real estate 
                   </Typography>
                 </Box>
               </Box>
