@@ -46,7 +46,7 @@ const PhotographyService = () => {
             <div className="font-poppins text-sm md:text-base lg:text-lg font-light leading-snug text-textColor mt-5 text-center md:text-left px-10 md:px-0">
               <div className="mb-4">
                 Photography is an essential tool in storytelling, and at
-                Webortex, we capture your moments with professionalism and
+                64Framez, we capture your moments with professionalism and
                 creativity. Our photography services cover a wide range of
                 needs, from personal portraits and event photography to product
                 shoots and brand imagery. We believe that every photo should
