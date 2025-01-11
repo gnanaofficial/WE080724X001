@@ -47,7 +47,7 @@ const MotionGraphicService = () => {
               <div className="mb-4">
                 In today’s digital landscape, static visuals aren’t always
                 enough to capture attention—this is where motion graphics come
-                into play. At Webortex, we offer top-tier motion graphic
+                into play. At 64Framez, we offer top-tier motion graphic
                 services designed to bring your ideas to life through animation
                 and dynamic visual storytelling. Motion graphics can be used for
                 everything from marketing videos, explainer animations, and
