@@ -47,7 +47,7 @@ const ThreeDCinematographyService = () => {
               <div className="mb-4">
                 3D cinematography takes visual storytelling to a whole new
                 level, providing immersive experiences that captivate and engage
-                viewers like never before. At Webortex, our 3D cinematography
+                viewers like never before. At 64Framez, our 3D cinematography
                 services utilize advanced technology to create lifelike
                 animations and videos that bring your ideas to life in three
                 dimensions. From animated films and virtual walkthroughs to 3D
@@ -61,7 +61,7 @@ const ThreeDCinematographyService = () => {
                 understand their vision and bring it to life in a way that is
                 both innovative and visually stunning. Whether you're looking to
                 create a fully animated project or incorporate 3D elements into
-                live-action footage, Webortex delivers high-quality results that
+                live-action footage, 64Framez delivers high-quality results that
                 elevate your brand and captivate your audience.
               </div>
             </div>
