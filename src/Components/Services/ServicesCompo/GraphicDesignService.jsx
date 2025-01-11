@@ -46,7 +46,7 @@ const GraphicDesignService = () => {
             <div className="font-poppins text-sm md:text-base lg:text-lg font-light leading-snug text-textColor mt-5 text-center md:text-left px-10 md:px-0">
               <div className="mb-4">
                 Graphic design plays a crucial role in defining your brand's
-                identity, and at Webortex, we bring that identity to life with
+                identity, and at 64Framez, we bring that identity to life with
                 creativity and precision. Our graphic design services are backed
                 by years of experience and a passion for delivering visually
                 compelling solutions. We specialize in a range of design
