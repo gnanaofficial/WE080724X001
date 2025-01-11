@@ -47,7 +47,7 @@ const InteriorDesignService = () => {
               <div className="mb-4">
                 Interior design is more than just creating aesthetically
                 pleasing spaces; it's about designing environments that reflect
-                your personality, lifestyle, or brand identity. At Webortex, we
+                your personality, lifestyle, or brand identity. At 64Framez, we
                 offer bespoke interior design services that blend creativity,
                 functionality, and style. Whether you're looking to transform a
                 residential space, revamp an office, or design a commercial
