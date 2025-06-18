@@ -540,7 +540,7 @@ const TeamMobile = () => {
             ></Grid>
             <Box>
               <Typography className="pt-2 font-bold font-poppins">
-                S Gnana Sekhar
+                K Gnana Sekhar
               </Typography>
               <Typography className="text-base font-poppins text-[#555555]">
                 Web Developer
