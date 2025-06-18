@@ -392,7 +392,7 @@ const Team = () => {
 
           <Box>
             <Typography className="pt-2 font-semibold font-poppins text-lg">
-              S Gnana Sekhar
+              K Gnana Sekhar
             </Typography>
             <Typography className="text-sm font-poppins text-[#555555] font-normal">
               Web Developer
