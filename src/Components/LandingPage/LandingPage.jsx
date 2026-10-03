@@ -19,7 +19,7 @@ const LandingPage = () => {
       <Projects />
       <Process />
       <Testimonials />
-      {isMobile ? <TeamMobile/> : <Team/>}
+      /* {isMobile ? <TeamMobile/> : <Team/>} */
     </>
   );
 };
