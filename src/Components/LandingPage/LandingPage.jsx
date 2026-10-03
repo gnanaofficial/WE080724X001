@@ -6,8 +6,8 @@ import ClientsCompo from "../ClientsCompo/ClientsCompo";
 import Projects from "../Projects/Projects";
 import Process from "../Process/Process";
 import Testimonials from "../Testimonials/Testimonials";
-import Team from "../Team/Team";
-import TeamMobile from "../Team/TeamMobile";
+// import Team from "../Team/Team";
+// import TeamMobile from "../Team/TeamMobile";
 
 const LandingPage = () => {
   const isMobile = useMediaQuery('(max-width:600px)');
@@ -19,7 +19,7 @@ const LandingPage = () => {
       <Projects />
       <Process />
       <Testimonials />
-      /* {isMobile ? <TeamMobile/> : <Team/>} */
+      
     </>
   );
 };
